@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Machine Learning side projects.
 - 💬 Ask me about the world of data or astrophysics, and I promise something interesting.
 - ⚡ I'm not always fun at parties, just ask me about `SQL`, `Python`, `R`, `Flask`, `SpringBoot`, `Docker` 🐳, `Bash`, and let's get it over with.
-- ✨ Insert random inspirational quote: "The trouble with programmers is you can never tell what a programmer is doing until it's too late".
+- ✨ Insert random inspirational quote: "The sooner you start to code, the longer the program will take".
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
 
