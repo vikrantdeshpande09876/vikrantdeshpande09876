@@ -10,10 +10,12 @@
 - ⚡ I'm not always fun at parties, just ask me about `SQL`, `Python`, `R`, `Flask`, `SpringBoot`, `Docker` 🐳, `Bash`, and let's get it over with.
 - ✨ Insert random inspirational quote: "The trouble with programmers is you can never tell what a programmer is doing until it's too late".
 
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikrant-deshpande/)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vikrantdeshpande09876/)
-
 Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
 
 <img src="https://c.tenor.com/q9mxm8_8lG4AAAAd/git-merge-git.gif" width="480" height="269"></img>
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikrant-deshpande/)
+
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vikrantdeshpande09876/)
+
