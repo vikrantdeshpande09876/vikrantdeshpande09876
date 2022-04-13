@@ -16,7 +16,7 @@
 * Statistics_and_Exploratory_analytics: `[Hypothesis testing, A/B Testing, ANOVA]`
 * Databases: `[SQL Server, MySQL, MongoDB, Postgres]`
 * Tools: `[Git, Tableau, Heroku, 🐳 Docker, Kafka, Kubernetes, Airflow, Informatica workflows, Jira, Bitbucket, Postman]`
-* Certifications: `[AWS Cloud Certified Professional, Deep Learning Specialization]`
+* Certifications: `[AWS Cloud Certified Practitioner, Deep Learning Specialization]`
 ```
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
