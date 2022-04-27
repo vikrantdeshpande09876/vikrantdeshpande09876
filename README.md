@@ -6,7 +6,7 @@
 - 🌱 Always learning and growing as a [Data Scientist](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection)<sup><a href="https://i.pinimg.com/originals/31/9c/01/319c01608b5b7d0d9b6b875f39ae6938.jpg">meme</a></sup>, [Data Engineer](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)<sup><a href="https://miro.medium.com/max/645/1*VQfBYdqHe5Icb7Tj3iHpww.jpeg">meme</a></sup>, and [Data Analyst](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction)<sup><a href="https://i.redd.it/yuh43yxmtpe31.jpg">meme</a></sup>.
 - 💬 Ask me about the world of data or astrophysics, and I promise something interesting.
 - 👯 Reach out if you're looking to collaborate on Machine Learning side projects, or need a partner for Leetcode problem-solving.
-- 🔭 Currently leading a project to build a distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators).
+- 🔭 Currently leading a project to build a distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators), and architecting an AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
 - ✨ Insert random inspirational quote: "The sooner you start to code, the longer the program will take".
 - ⚡ I'm not always fun at parties:
 
