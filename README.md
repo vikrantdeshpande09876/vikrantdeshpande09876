@@ -13,7 +13,7 @@
 ```python
 * Programming: `[Python: (Pandas, Numpy, Tensorflow, Scikit, Flask, PySpark, Airflow, BeautifulSoup, etc.), R (ggplot, Tidyverse, etc.), SQL, Java (SpringBoot), Linux Bash Scripting, Javascript]`
 * Predictive_models: `[Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, Gaussian Mixture Models, K-Means, Gradient Boosted models, Convolutional Neural Networks, LSTM, Transformers]`
-* Statistics_and_Exploratory_analytics: `[Hypothesis testing, A/B Testing, ANOVA]`
+* Statistics_and_Exploratory_analytics: `[Hypothesis testing, Power Analyses, Mixed-effect modeling & regression analyses, A/B Testing, ANOVA]`
 * Databases: `[SQL Server, MySQL, MongoDB, Postgres]`
 * Tools: `[Git, Tableau, Heroku, 🐳 Docker, Kafka, Kubernetes, Airflow, Informatica workflows, Jira, Bitbucket, Postman]`
 * Certifications: `[AWS Cloud Certified Practitioner, Deep Learning Specialization]`
