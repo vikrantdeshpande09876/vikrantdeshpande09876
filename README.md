@@ -23,8 +23,8 @@ Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merg
 
 <img src="https://c.tenor.com/q9mxm8_8lG4AAAAd/git-merge-git.gif" width="480" height="269"></img>
 
+![Profile Views](https://komarev.com/ghpvc/?username=vikrantdeshpande09876)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikrant-deshpande/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrantdeshpande09876&show_icons=true&theme=dark) [![Natural Polyglot](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrantdeshpande09876&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vikrantdeshpande09876/)
-
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vikrant-deshpande/) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/vikrantdeshpande09876/)
