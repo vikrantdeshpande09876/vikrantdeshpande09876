@@ -23,9 +23,9 @@
 ### 🔭 Notable projects architected include:
 
 1. A distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators).
-2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP.
+2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
 3. An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
-4. Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) using a meta-model of Gradient-Boosting methods.
+4. Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) via a meta-model of Gradient-Boosting methods.
 
 
 ### Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
