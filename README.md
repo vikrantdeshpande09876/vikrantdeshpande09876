@@ -3,10 +3,11 @@
 <h2>You can call me Vikrant / Vik.</h2>
 
 
-- 🌱 Always learning and growing as a [Data Scientist](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection)<sup><a href="https://i.pinimg.com/originals/31/9c/01/319c01608b5b7d0d9b6b875f39ae6938.jpg">meme</a></sup>, [Data Engineer](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities)<sup><a href="https://miro.medium.com/max/645/1*VQfBYdqHe5Icb7Tj3iHpww.jpeg">meme</a></sup>, and [Data Analyst](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction)<sup><a href="https://i.redd.it/yuh43yxmtpe31.jpg">meme</a></sup>.
+<img src="https://miro.medium.com/max/645/1*VQfBYdqHe5Icb7Tj3iHpww.jpeg">
+
+- 🌱 Always learning and growing as a [Data Scientist](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection)<sup><a href="https://i.pinimg.com/originals/31/9c/01/319c01608b5b7d0d9b6b875f39ae6938.jpg">meme</a></sup>, and [Software Engineer](https://github.com/airavata-courses/scapsulators)<sup><a href="https://i.redd.it/yuh43yxmtpe31.jpg">meme</a></sup>.
 - 💬 Ask me about the world of data or astrophysics, and I promise something interesting.
 - 👯 Reach out if you're looking to collaborate on Machine Learning side projects, or need a partner for Leetcode problem-solving.
-- 🔭 Latest projects architected include a distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators), and an AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
 - ✨ Insert random inspirational quote: "The sooner you start to code, the longer the program will take".
 - ⚡ I'm not always fun at parties:
 
@@ -19,7 +20,15 @@
 * Certifications: `[AWS Cloud Certified Practitioner, Deep Learning Specialization]`
 ```
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
+### 🔭 Notable projects architected include:
+
+1. A distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators).
+2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP.
+3. An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
+4. Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) using a meta-model of Gradient-Boosting methods.
+
+
+### Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
 
 <img src="https://c.tenor.com/q9mxm8_8lG4AAAAd/git-merge-git.gif" width="480" height="269"></img>
 
