@@ -22,10 +22,11 @@
 
 ### 🔭 Notable projects architected include:
 
-1. A distributed [weather-reporting system](https://github.com/airavata-courses/scapsulators).
-2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
-3. An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
-4. Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) via a meta-model of Gradient-Boosting methods.
+1. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
+2. A distributed [weather-reporting](https://github.com/airavata-courses/scapsulators) system deployed using microservices-architecture in Kubernetes cluster for real-time streaming of inference-reports via Kafka.
+3. An in-house [master-data-management tool](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities) to recursively parse and merge subsets of data while tracking transitive dependencies, and used the Levenshtein algorithm for string-comparisons
+4. An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
+5. Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) via a meta-model of Gradient-Boosting methods.
 
 
 ### Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
