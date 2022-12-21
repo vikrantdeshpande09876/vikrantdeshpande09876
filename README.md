@@ -23,7 +23,7 @@
 ### 🔭 Notable projects architected include:
 
 1. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
-2. A Timeseries framework deployed on Azure ML as pipelines by using Facebook-Prophet and Seasonal-ARIMA models, and exogenous variables like `discounts`, `price-hikes`, `number of housing-permits`, `consumer sentiment index`, etc.
+2. A Timeseries framework deployed on Azure ML as pipelines by using Facebook-Prophet and Seasonal-ARIMA models, and exogenous variables like `discounts`, `price-hikes`, `number of housing-permits`, `consumer sentiment index`, etc. (Not open-sourced; internship project)
 3. A distributed [weather-reporting](https://github.com/airavata-courses/scapsulators) system deployed using microservices-architecture in Kubernetes cluster for real-time streaming of inference-reports via Kafka.
 4. An in-house [master-data-management tool](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities) to recursively parse and merge subsets of data while tracking transitive dependencies, and used the Levenshtein algorithm for string-comparisons
 5. An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities.
