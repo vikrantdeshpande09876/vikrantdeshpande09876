@@ -16,6 +16,7 @@
 * Predictive_models: `[Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, Gaussian Mixture Models, K-Means, Gradient Boosted models, Convolutional Neural Networks, LSTM, Transformers]`
 * Statistics_and_Exploratory_analytics: `[Hypothesis testing, Power Analyses, Mixed-effect modeling & regression analyses, A/B Testing, ANOVA]`
 * Databases: `[SQL Server, MySQL, MongoDB, Postgres]`
+* Cloud Services: `[Azure Machine Learning, Azure Functions, Azure Blob Storage, GCP Cloud Functions, Google Cloud Composer, Google Cloud Storage, AWS S3, RDS, Sagemaker]`
 * Tools: `[Git, Tableau, Heroku, 🐳 Docker, Kafka, Kubernetes, Airflow, Informatica workflows, Jira, Bitbucket, Postman]`
 * Certifications: `[AWS Cloud Certified Practitioner, Deep Learning Specialization]`
 ```
