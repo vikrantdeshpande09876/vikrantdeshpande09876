@@ -24,7 +24,7 @@
 ### 🔭 Notable projects architected include:
 
 1. An [NLP-based package](https://github.com/hubmapconsortium/asctb-ct-label-mapper) to translate raw-labels into expert-approved naming-conventions, to establish controlled vocabulary within new annotated scRNA-seq datasets.
-2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
+2. A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) framework using Random-Forest models, deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
 3. A Timeseries framework deployed on Azure ML as pipelines by using Facebook-Prophet and Seasonal-ARIMA models, and exogenous variables like `discounts`, `price-hikes`, `number of housing-permits`, `consumer sentiment index`, etc. (Not open-sourced; internship project).
 4. A distributed [weather-reporting](https://github.com/airavata-courses/scapsulators) system deployed using microservices-architecture in Kubernetes cluster for real-time streaming of inference-reports via Kafka.
 5. An in-house [master-data-management tool](https://github.com/vikrantdeshpande09876/Masterize_Hospital_Entities) to recursively parse and merge subsets of data while tracking transitive dependencies, and used the Levenshtein algorithm for string-comparisons.
