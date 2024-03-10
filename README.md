@@ -23,8 +23,8 @@
 
 ### 🔭 Notable projects architected include:
 
-* A Microsoft Teams Chatbot with a highly scalable backend with **90+** WAU using `Azure OpenAI GPT4`, `HuggingFace gte4`, `intent-detection`, `advanced Retrieval Augmented Generation`, and `hybrid-search on a vector store` (internal company project).
-* An [NLP-based package](https://github.com/hubmapconsortium/asctb-ct-label-mapper) NLP package to recommend cell-type annotations and help establish a controlled vocabulary in scRNA-seq datasets, using `HuggingFace sentence-transformer` models.
+* A Microsoft Teams Chatbot with a highly scalable backend for **90+** WAU using `Azure OpenAI GPT4`, `HuggingFace gte4`, `intent-detection`, `advanced Retrieval Augmented Generation`, and `hybrid-search on a vector store` (internal company project).
+* An [NLP-based package](https://github.com/hubmapconsortium/asctb-ct-label-mapper) to recommend cell-type annotations and help establish a controlled vocabulary in scRNA-seq datasets, using `HuggingFace sentence-transformer` models.
 * A multiple timeseries MLOps system for demand forecasting using `ARIMA` and `FB Prophet` models, and exogenous variables like `discounts`, `price-hikes`, `number of housing-permits`, `consumer sentiment index`, etc. (internship project).
 * A [Credit Card fraud detection](https://github.com/vikrantdeshpande09876/Credit_Card_Fraud_Detection) `Random Forest` based system deployed on GCP to monitor source-file changes using Cloud Functions and Airflow (Cloud Composer).
 * A distributed [weather-reporting](https://github.com/airavata-courses/scapsulators) system deployed using `microservices` architecture in `Kubernetes` clusters for real-time streaming of inference-reports over `Kafka` topics.
