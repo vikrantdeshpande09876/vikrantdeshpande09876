@@ -12,13 +12,39 @@
 - ⚡ I'm not always fun at parties:
 
 ```python
-* programming: `[Python: (Pandas, Numpy, Tensorflow, Scikit, Flask, PySpark, Airflow, BeautifulSoup, etc.), R (ggplot, Tidyverse, etc.), SQL, Java (SpringBoot), Linux Bash Scripting, Javascript]`
-* predictive_models: `[Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, Gaussian Mixture Models, K-Means, Gradient Boosted models, Convolutional Neural Networks, LSTM, Transformers]`
-* statistics_and_exploratory_analytics: `[Hypothesis testing, Power Analyses, Mixed-effect modeling & regression analyses, A/B Testing, ANOVA]`
-* databases: `[SQL Server, Postgres, MySQL, MongoDB]`
-* cloud_services: `[Azure Machine Learning, Azure Functions, Azure Blob Storage, GCP Cloud Functions, Google Cloud Composer, Google Cloud Storage, AWS S3, RDS, Sagemaker]`
-* tools: `[Git, Tableau, Heroku, 🐳 Docker, Kafka, Kubernetes, Airflow, Informatica workflows, Jira, Bitbucket, Postman]`
-* cloud_certifications: `[Azure Certified Data Scientist, AWS Cloud Certified Practitioner, Deep Learning Specialization]`
+* programming: [
+                  🐍 Python: (Pandas, Numpy, Tensorflow, Scikit, Flask, PySpark, Airflow, BeautifulSoup, etc.),
+                  📊 R (ggplot, Tidyverse, etc.),
+                  🧮 SQL,
+                  ☕ Java (SpringBoot),
+                  🐧 Linux Bash Scripting,
+                  ｡🇯‌🇸‌ Javascript
+]
+* predictive_models: [Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, Gaussian Mixture Models, K-Means, Gradient Boosted models, Convolutional Neural Networks, LSTM, Transformers, ...]
+* statistics_and_exploratory_analytics: [Hypothesis testing, Power Analyses, Mixed-effect modeling & regression analyses, A/B Testing, ANOVA, ...]
+* databases: [SQL Server, Postgres, MySQL, MongoDB, ...]
+* cloud_services: [Azure Machine Learning, Azure Functions, Azure Blob Storage, GCP Cloud Functions, Google Cloud Composer, Google Cloud Storage, AWS S3, RDS, Sagemaker, ...]
+* tools: [
+                  🏷️ Git,
+                  🐳 Docker,
+                  ☸️ Kubernetes,
+                  Tableau,
+                  Heroku,
+                  Kafka,
+                  Airflow,
+                  Informatica workflows,
+                  Jira,
+                  Bitbucket,
+                  Postman,
+                  JMeter,
+                  ...
+]
+* cloud_certifications: [
+                  Azure Certified Data Scientist,
+                  AWS Cloud Certified Practitioner,
+                  Deep Learning Specialization,
+                  ...
+]
 ```
 
 ### 🔭 Notable projects architected include:
