@@ -12,7 +12,7 @@
 - ⚡ I'm not always fun at parties:
 
 ```python
-* programming: [
+programming_languages = [
                   🐍 Python: (Pandas, Numpy, Tensorflow, Scikit, Flask, PySpark, Airflow, BeautifulSoup, etc.),
                   📊 R (ggplot, Tidyverse, etc.),
                   🧮 SQL,
@@ -20,26 +20,28 @@
                   🐧 Linux Bash Scripting,
                   ｡🇯‌🇸‌ Javascript
 ]
-* predictive_models: [Linear Regression, Logistic Regression, Naive Bayes, SVM, Decision Trees, Random Forest, Gaussian Mixture Models, K-Means, Gradient Boosted models, Convolutional Neural Networks, LSTM, Transformers, ...]
-* statistics_and_exploratory_analytics: [Hypothesis testing, Power Analyses, Mixed-effect modeling & regression analyses, A/B Testing, ANOVA, ...]
-* databases: [SQL Server, Postgres, MySQL, MongoDB, ...]
-* cloud_services: [Azure Machine Learning, Azure Functions, Azure Blob Storage, GCP Cloud Functions, Google Cloud Composer, Google Cloud Storage, AWS S3, RDS, Sagemaker, ...]
-* tools: [
+predictive_models = [LLMs, Prompt Engineering, NLP, Timeseries Forecasting, Classification, Regression, Clustering, Ensembling, Transformers, ...]
+statistics_and_exploratory_analytics = [Hypothesis Testing, Power Analyses, Mixed Effect Modeling, Regression Analyses, A/B Testing, ANOVA, ...]
+databases = [SQL Server, Postgres, MySQL, MongoDB, ...]
+cloud_services = [Azure Machine Learning, Azure Functions, Azure Blob Storage, GCP Cloud Functions, Google Cloud Composer, Google Cloud Storage, AWS S3, RDS, Sagemaker, ...]
+tools = [
                   🏷️ Git,
                   🐳 Docker,
                   ☸️ Kubernetes,
+                  😊 HuggingFace.
+                  🏗️ Tensorflow,
                   Tableau,
                   Heroku,
                   Kafka,
                   Airflow,
-                  Informatica workflows,
+                  Informatica Workflows,
                   Jira,
                   Bitbucket,
                   Postman,
                   JMeter,
                   ...
 ]
-* cloud_certifications: [
+cloud_certifications = [
                   Azure Certified Data Scientist,
                   AWS Cloud Certified Practitioner,
                   Deep Learning Specialization,
