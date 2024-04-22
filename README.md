@@ -1,6 +1,4 @@
-### Hello stranger 👋
-
-<h2>You can call me Vikrant / Vik.</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+stranger+👋;You+can+call+me+Vikrant+or+Vik!)
 
 
 <img src="https://www.theclickreader.com/wp-content/uploads/2021/09/ezw21iggyhr61.jpg">
@@ -49,7 +47,7 @@ cloud_certifications = [
 ]
 ```
 
-### 🔭 Notable projects architected include:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=My+Most+Notable+Architected+Projects+🔭:)
 
 * A Microsoft Teams Chatbot with a highly scalable backend for **90+** DAU using `Azure OpenAI GPT4`, `HuggingFace gte4`, `intent-detection`, `advanced Retrieval Augmented Generation`, and `hybrid-search on a vector store` (internal company project).
 * An [NLP-based package](https://github.com/hubmapconsortium/asctb-ct-label-mapper) to recommend cell-type annotations and help establish a controlled vocabulary in scRNA-seq datasets, using `HuggingFace sentence-transformer` models.
@@ -60,8 +58,7 @@ cloud_certifications = [
 * An AI product to [detect weapons](https://github.com/vikrantdeshpande09876/Weapons-Detector-WUPHF) in CCTV/webcam footage and immediately notify authorities using `YOLOv3`, `Docker`, `Kubernetes`, and `Kafka`.
 * Bronze medal for [Revenue prediction](https://www.kaggle.com/vikrantdeshpande098/gstore-cust-revenue-prediction) via a `Stacked` ensemble-model of `Gradient Boosting` methods.
 
-
-### Reach out on [LinkedIn](https://www.linkedin.com/in/vikrant-deshpande/) to `merge` our conversation further.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Reach+out+on+LinkedIn+to+merge+our+conversations+🤝)
 
 <img src="https://c.tenor.com/q9mxm8_8lG4AAAAd/git-merge-git.gif" width="480" height="269"></img>
 
